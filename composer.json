@@ -11,14 +11,14 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.2",
         "composer/installers": "~1.0",
         "damianlewis/october-laravel-pivot": "dev-master"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/damianlewis/october-laravel-pivot"
+            "url": "https://github.com/wheeltheworld/october-laravel-pivot"
         }
     ]
 }
